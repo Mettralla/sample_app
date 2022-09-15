@@ -78,3 +78,4 @@ end
 
 #test 
 gem 'ffi'
+gem 'minitest-reporters'
